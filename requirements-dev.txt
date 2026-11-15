@@ -1,0 +1,3 @@
+# Yalnızca testler için (tests/): pip install -r requirements.txt -r requirements-dev.txt
+pytest>=8.0.0
+pymannkendall>=1.4.3
